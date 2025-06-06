@@ -1,0 +1,11 @@
+Title: The Global Rise of Antimicrobial Resistance
+
+Antimicrobial resistance (AMR) is emerging as one of the most pressing health threats of the 21st century. Once-treatable infections are becoming increasingly resistant to standard antibiotics, jeopardizing modern medical procedures such as surgeries, chemotherapy, and intensive care. The overuse and misuse of antibiotics in both human medicine and livestock farming have accelerated the evolution of resistant pathogens.
+
+The consequences of AMR are far-reaching. The World Health Organization estimates that by 2050, drug-resistant infections could cause up to 10 million deaths annually. Multidrug-resistant strains of tuberculosis, gonorrhea, and E. coli have already been documented globally, complicating treatment protocols and increasing mortality.
+
+Efforts to combat AMR include stricter prescription guidelines, investment in new drug development, and global surveillance programs. However, pharmaceutical companies face economic disincentives to develop new antibiotics, which are often used sparingly to prevent resistance. Alternatives such as phage therapy and antimicrobial peptides are under exploration but remain in early stages.
+
+In summary, AMR represents a slow-moving pandemic that requires urgent and coordinated global action. Without immediate intervention, the foundation of modern medicine may be at risk.
+
+Source: www.journalofhealthbio.org/article/amr-threats-2024

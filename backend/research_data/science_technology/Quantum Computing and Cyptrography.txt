@@ -1,0 +1,11 @@
+Title: Quantum Computing and the Future of Cryptography
+
+Quantum computing poses a significant challenge to modern cryptographic systems. Traditional encryption methods such as RSA and ECC, which rely on the difficulty of factoring large primes or solving discrete logarithmic problems, may be rendered obsolete once scalable quantum computers become a reality. The ability of quantum algorithms like Shor’s algorithm to efficiently solve these problems threatens the foundational security assumptions of current digital infrastructure.
+
+The race toward quantum-resistant algorithms has led to a growing field known as post-quantum cryptography (PQC). Researchers are exploring lattice-based, hash-based, and code-based cryptographic schemes that are believed to be secure against quantum attacks. These systems aim to preserve privacy and authentication in a world where adversaries may harness quantum capabilities.
+
+While fully operational quantum computers are not yet mainstream, advancements by companies such as IBM, Google, and D-Wave indicate rapid progress. Governments and cybersecurity firms are already preparing for “Y2Q” — the hypothetical moment when quantum decryption becomes viable. The transition to quantum-safe standards is crucial not only for future security but also for safeguarding archived data that could be decrypted retroactively.
+
+In conclusion, quantum computing introduces both promise and peril. Its transformative computational power must be matched by a proactive overhaul of global encryption systems. The future of digital security depends on timely innovation in cryptographic resilience.
+
+Source: www.journaloftech.org/article/quantum-vs-crypto-2024

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Nemosora Search</title>
+</head>
+<body style="font-family: Arial; text-align: center; margin-top: 50px;">
+  <h2>Search for a Research Topic</h2>
+
+  <form method="POST" action="/search">
+    <input type="text" name="query" placeholder="e.g. gene editing" required style="width: 300px; padding: 10px;">
+    <button type="submit" style="padding: 10px;">Search</button>
+  </form>
+
+  {% if not_found %}
+    <p style="color: red;">No matching document found.</p>
+  {% endif %}
+</body>
+</html>

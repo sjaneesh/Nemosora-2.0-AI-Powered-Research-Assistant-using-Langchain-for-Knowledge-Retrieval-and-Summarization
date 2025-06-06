@@ -1,0 +1,11 @@
+Title: The Ethics of Autonomous Weapons Systems
+
+As artificial intelligence matures, its integration into military systems has sparked heated debates over the ethics and legality of autonomous weapons. Unlike remotely piloted drones, autonomous weapons can select and engage targets without human intervention. While proponents argue these systems could reduce human casualties and increase precision, critics warn of accountability gaps and risks of unintended escalation.
+
+One core ethical dilemma involves the delegation of life-and-death decisions to machines. Without human oversight, these systems may fail to adhere to international humanitarian laws, especially in complex combat environments. Moreover, biases in AI training data could result in disproportionately targeting certain groups, exacerbating ethical concerns.
+
+The international community remains divided. Some countries advocate for a complete ban on lethal autonomous weapons, while others push for regulation rather than prohibition. The absence of a clear global consensus has led to a regulatory vacuum, raising fears of an AI arms race that outpaces ethical frameworks.
+
+Ultimately, the challenge lies in balancing innovation with responsibility. As autonomous weapons evolve, transparent oversight, enforceable treaties, and robust testing protocols must accompany their deployment. Otherwise, technological progress may come at the cost of humanitarian principles.
+
+Source: www.journaloftech.org/article/ethics-autonomous-weapons-2024

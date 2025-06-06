@@ -1,0 +1,7 @@
+<h2>Files in {{ category.replace('_', ' ').title() }}</h2>
+<ul>
+  {% for file in files %}
+    <li><a href="/view/{{ category }}/{{ file }}">{{ file }}</a></li>
+  {% endfor %}
+</ul>
+<a href="/categories">← Back to Categories</a>

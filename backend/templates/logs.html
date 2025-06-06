@@ -1,0 +1,21 @@
+<h2>User Query Logs</h2>
+<table border="1" cellpadding="10">
+  <tr>
+    <th>User Email</th>
+    <th>File</th>
+    <th>Question</th>
+    <th>Response (short)</th>
+    <th>Tokens</th>
+    <th>Time</th>
+  </tr>
+  {% for row in logs %}
+    <tr>
+      <td>{{ row[1] }}</td>
+      <td>{{ row[2] }}</td>
+      <td>{{ row[3] }}</td>
+      <td>{{ row[4][:80] }}...</td>
+      <td>{{ row[5] }}</td>
+      <td>{{ row[6] }}</td>
+    </tr>
+  {% endfor %}
+</table>
