@@ -9,7 +9,7 @@ https://github.com/sjaneesh/Nemosora-2.0-AI-Powered-Research-Assistant-using-Lan
 **Nemosora 2.0** is an AI-powered research assistant designed to help  
 **researchers, students, and professionals** search, understand, and summarize academic papers with clarity and depth.  
 
-Powered by **LangChain**, **Gemini API**, and intelligent semantic search,  
+Powered by **LangChain**, **Gemini API**, and **ChromaDB** for intelligent semantic search,  
 Nemosora doesn’t just search — it *understands*.
 
 ---
